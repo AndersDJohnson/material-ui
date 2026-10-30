@@ -28,7 +28,7 @@
   "peerDependencies": {},
   "devDependencies": {
     "babel-cli": "^6.6.5",
-    "grunt": "^0.4.5",
+    "grunt": "^1.6.3",
     "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-mocha-test": "^0.12.7",
